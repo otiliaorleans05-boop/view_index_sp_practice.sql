@@ -1,0 +1,1 @@
+# view_index_sp_practice.sql
